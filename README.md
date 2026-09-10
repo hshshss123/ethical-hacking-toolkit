@@ -115,6 +115,4 @@ It is intended for:
 
 The toolkit performs basic observation and defensive checks; a result such as **OPEN**, **reachable**, or **missing header** is not by itself proof of a vulnerability.
 
-## License
 
-MIT License.
